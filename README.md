@@ -7,3 +7,4 @@ This repository contains the Single cycle, Multi cycle and Pipelined implementat
 
 ## References
 1. Computer Organization and Design RISC-V Edition: The Hardware Software Interface - by David A Patterson and John L. Hennessy
+2. [RISCV ISA](Assets/RISCV_Card.pdf)
